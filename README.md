@@ -31,9 +31,9 @@
 ## :pencil: 4. เปลี่ยนชื่อ
 เมื่อทำการเพิ่มเบอร์เสร็จแล้ว ให้เปลี่ยนชื่อตัวเองให้มีหมายเลขคิว โดยมีวิธีดังนี้
 + กดปุ่มมุมขวาบนที่เป็นขีด 3 ขีด
-+ กดตั้งค่าอื่น ๆ 
-+ จิ้มที่ชื่อ แล้วเปลี่ยนชื่อเลย
-[image]: https://github.com/linesquareToClubhouse/clubHouseInviteRules/blob/main/images/editName.jpg "edit name"
++ กดตั้งค่าอื่น ๆ
++ จิ้มที่ชื่อ แล้วเปลี่ยนชื่อเลย<br/>
+![alt text](https://github.com/linesquareToClubhouse/clubHouseInviteRules/blob/main/images/editName.jpg "edit name")
 
 ## :hourglass: 5. รอ
 รอ รอ รอ และ รอ จะออกจากแอพไลน์ก่อนก็ได้ เพราะถึงคิวแล้วจะมีคนเรียกให้
