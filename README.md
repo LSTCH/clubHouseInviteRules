@@ -68,7 +68,9 @@
 
 
 ## :construction:	10. เก็บกวาดข้าวของให้เรียบร้อย
-เมื่อinviteเสร็จสิ้น ให้ทำการลบคอมเม้นที่อยู๋ในโน้ต โดยการปัดคอมเมนท์จากขวาไปซ้าย แล้วกดปุ่ม```ลบ```<br/>
+เมื่อinviteเสร็จสิ้น ให้ทำการลบคอมเม้นที่อยู๋ในโน้ต โดยทำตามขั้นตอนดังนี้
++ ทำการกดแล้วลากจากขวาไปซ้าย ให้แถบเมนู ```ลบ``` แสดงขึ้นมา
++ กดปุ่ม```ลบ```<br/>
 ![alt text](https://github.com/linesquareToClubhouse/clubHouseInviteRules/blob/main/images/deleteComment.jpg "delete comment")<br/>
 
 
