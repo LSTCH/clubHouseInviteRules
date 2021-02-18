@@ -30,7 +30,7 @@
 + หากเจอคิวกระโดดไปมาน่าเกลียดจนเกินไป ให้ยึดเอาคนที่ถัดจากเรา
 + โดยการเพิ่มเบอร์โทร ต้องเพิ่มในรูปแบบที่มี**รหัสประเทศนำหน้า** ```+66812345678``` **เท่านั้น** ตามรูปด้านล่าง
 
-![alt text](../blob/main/images/addContact.jpg "add contact")
+![alt text](https://github.com/linesquareToClubhouse/clubHouseInviteRules/blob/main/images/addContact.jpg "add contact")
 
 ***สำคัญ!!! ต้องแอดเบอร์โทร ไม่งั้นจะไม่สามารถชวนคนอื่นได้***
 
