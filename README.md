@@ -62,11 +62,13 @@
 + หากไม่เห็นจริง ๆ คน ๆ นั้นอาจออกจากแชทแล้ว ให้ข้ามคนนั้นไปเลย
 
 > + ตัวอย่างเช่น เราต้องการ mention หมายเลข 555 ก็ให้เราพิมพ์ ```@555``` ลงในช่องแชท <br/>
-> ![alt text](https://github.com/LSTCH/clubHouseInviteRules/blob/main/images/mentionOther01.jpg "mention other 01")
+> ![alt text](https://github.com/LSTCH/clubHouseInviteRules/blob/main/images/mentionOther01.jpg "mention other 01")<br/>
+> 
 > + จิ้มคนชื่อ ```555``` <br/>
-> ![alt text](https://github.com/LSTCH/clubHouseInviteRules/blob/main/images/mentionOther02.jpg "mention other 02")
+> ![alt text](https://github.com/LSTCH/clubHouseInviteRules/blob/main/images/mentionOther02.jpg "mention other 02")<br/>
+> 
 > + หากตัวอักษรเป็นสี่น้ำเงิน เมื่อกดปุ่มส่งไป คนที่โดน mention จะได้รับการแจ้งเตือนแล้ว <br/>
-> ![alt text](https://github.com/LSTCH/clubHouseInviteRules/blob/main/images/mentionOther03.jpg "mention other 03")
+> ![alt text](https://github.com/LSTCH/clubHouseInviteRules/blob/main/images/mentionOther03.jpg "mention other 03")<br/>
 
 
 ## :gift:	7. รับ invite
