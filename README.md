@@ -70,8 +70,9 @@
 + คนก่อนหน้าเราจะเริ่มทำการ invite เมื่อ invite เด้งขึ้นมาผ่าน messenger ห้ามกดลิงค์เด็ดขาด แต่ให้ไปที่แอพ clubhouse ได้เลย แล้วทำการล็อคอินใหม่ให้เรียบร้อย
 + หากคนส่งส่งโดย iPad ให้ไป login เลยโดยที่ไม่ต้องรอข้อความ เพราะ iPad จะไม่ส่งข้อความไปหา แต่ invite ก็จะขื่นอยู่ดี
 + ให้ทำการล็อกอินใหม่ให้เรียบร้อย โดยการกดปุ่ม  ```Got your invite text? **Sign in** →```  ปุ่มสีน้ำเงินด้านล่างดังรูป<br/>
-![alt text](https://github.com/linesquareToClubhouse/clubHouseInviteRules/blob/main/images/signIn.jpg "sign inn")<br/>
+![alt text](https://github.com/linesquareToClubhouse/clubHouseInviteRules/blob/main/images/signIn.jpg "sign in")<br/>
 + ทำตามขั้นตอนไปเรื่อย ๆ เมื่อล็อกอินเสร็จสิ้น ให้ทำตามขั้นตอนต่อไป
++ แต่ถ้าทำเสร็จแล้วกลับมาที่เดิม แสดงว่า invite อาจส่งไปไม่ถึง
 
 + **ถ้าคนรับได้รับ invite แล้ว ให้ทำการบอกในกลุ่มทันทีว่าได้รับแล้ว**
 
