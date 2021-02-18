@@ -19,7 +19,6 @@
 >+66812345678
 >```
 **หากสละสิทธิ์ ก่อนออกจากกลุ่มรบกวนลบคอมเมนท์คิวทิ้งด้วย เพื่อตอนเรียกถึงจะได้ไม่ต้องเสียเวลา โดยวิธีการลบ จิ้ม [วิธีลบคอมเมนท์](https://github.com/LSTCH/clubHouseInviteRules/blob/main/README.md#construction10-%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%9A%E0%B8%81%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2) ได้เลย<br/>
-![alt text](https://github.com/linesquareToClubhouse/clubHouseInviteRules/blob/main/images/brokenInvitation.jpg "broken invitation")<br/>**
 ***สำคัญมาก หากให้เบอร์ผิด จะทำให้คนก่อนเราเสียไป1invite และอาจทำให้คนที่รอเราอยู่เสียโอกาสทุกคน***
 
 
